@@ -7,4 +7,5 @@ obj.innerHTML = indianTime;
 }
 setInterval(timer,1000)
 
- 
+
+const account =230
