@@ -11,3 +11,6 @@ setInterval(timer,1000)
 const account =230
 
 // console.log("hii")
+
+// fixing hte bug
+console.log("fixing the bug");
